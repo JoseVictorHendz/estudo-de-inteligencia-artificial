@@ -10,6 +10,8 @@ def calculoDeRampa(soma):
         print('o valor de saida é ', saida)
     return int(saida)
 
+
+
 def cauculoDePeso(w1, w2, x11, x12):
     soma = 0
     soma = x11 * w1 + x12 * w2
@@ -23,6 +25,8 @@ x11 = 0 #int(input("adicione x11 "))
 x12 = 0 #int(input("adicione x12 "))
 x21 = 1 #int(input("adicione x21 "))
 x22 = 1 #int(input("adicione x22 "))
+
+
 
 w1 = -1 #int(input("adicione w1 "))
 w2 = -1 #int(input("adicione w2 "))
